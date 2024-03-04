@@ -1,0 +1,15 @@
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/bin/Debug/net7.0/calculator.cs
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/bin/Debug/net7.0/calculator.cs.deps.json
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/bin/Debug/net7.0/calculator.cs.runtimeconfig.json
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/bin/Debug/net7.0/calculator.cs.dll
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/bin/Debug/net7.0/calculator.cs.pdb
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/obj/Debug/net7.0/calculator.cs.csproj.AssemblyReference.cache
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/obj/Debug/net7.0/calculator.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/obj/Debug/net7.0/calculator.cs.AssemblyInfoInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/obj/Debug/net7.0/calculator.cs.AssemblyInfo.cs
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/obj/Debug/net7.0/calculator.cs.csproj.CoreCompileInputs.cache
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/obj/Debug/net7.0/calculator.cs.dll
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/obj/Debug/net7.0/refint/calculator.cs.dll
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/obj/Debug/net7.0/calculator.cs.pdb
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/obj/Debug/net7.0/calculator.cs.genruntimeconfig.cache
+/Users/zairovv/Desktop/IT brains tasks/calculator.cs/calculator.cs/obj/Debug/net7.0/ref/calculator.cs.dll
